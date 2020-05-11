@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\omorf\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\omorf\\.nuget\\packages"
+    ]
+  }
+}

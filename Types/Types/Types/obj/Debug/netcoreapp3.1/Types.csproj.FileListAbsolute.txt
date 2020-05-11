@@ -1,0 +1,13 @@
+E:\c sharp\HelloWorld_Read_Write_Console\Types\Types\Types\bin\Debug\netcoreapp3.1\Types.exe
+E:\c sharp\HelloWorld_Read_Write_Console\Types\Types\Types\bin\Debug\netcoreapp3.1\Types.deps.json
+E:\c sharp\HelloWorld_Read_Write_Console\Types\Types\Types\bin\Debug\netcoreapp3.1\Types.runtimeconfig.json
+E:\c sharp\HelloWorld_Read_Write_Console\Types\Types\Types\bin\Debug\netcoreapp3.1\Types.runtimeconfig.dev.json
+E:\c sharp\HelloWorld_Read_Write_Console\Types\Types\Types\bin\Debug\netcoreapp3.1\Types.dll
+E:\c sharp\HelloWorld_Read_Write_Console\Types\Types\Types\bin\Debug\netcoreapp3.1\Types.pdb
+E:\c sharp\HelloWorld_Read_Write_Console\Types\Types\Types\obj\Debug\netcoreapp3.1\Types.csprojAssemblyReference.cache
+E:\c sharp\HelloWorld_Read_Write_Console\Types\Types\Types\obj\Debug\netcoreapp3.1\Types.csproj.CoreCompileInputs.cache
+E:\c sharp\HelloWorld_Read_Write_Console\Types\Types\Types\obj\Debug\netcoreapp3.1\Types.AssemblyInfoInputs.cache
+E:\c sharp\HelloWorld_Read_Write_Console\Types\Types\Types\obj\Debug\netcoreapp3.1\Types.AssemblyInfo.cs
+E:\c sharp\HelloWorld_Read_Write_Console\Types\Types\Types\obj\Debug\netcoreapp3.1\Types.dll
+E:\c sharp\HelloWorld_Read_Write_Console\Types\Types\Types\obj\Debug\netcoreapp3.1\Types.pdb
+E:\c sharp\HelloWorld_Read_Write_Console\Types\Types\Types\obj\Debug\netcoreapp3.1\Types.genruntimeconfig.cache

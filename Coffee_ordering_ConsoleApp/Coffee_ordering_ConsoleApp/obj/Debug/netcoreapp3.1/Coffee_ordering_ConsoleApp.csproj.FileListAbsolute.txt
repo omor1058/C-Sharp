@@ -1,0 +1,13 @@
+E:\c sharp\Coffee_ordering_ConsoleApp\Coffee_ordering_ConsoleApp\bin\Debug\netcoreapp3.1\Coffee_ordering_ConsoleApp.exe
+E:\c sharp\Coffee_ordering_ConsoleApp\Coffee_ordering_ConsoleApp\bin\Debug\netcoreapp3.1\Coffee_ordering_ConsoleApp.deps.json
+E:\c sharp\Coffee_ordering_ConsoleApp\Coffee_ordering_ConsoleApp\bin\Debug\netcoreapp3.1\Coffee_ordering_ConsoleApp.runtimeconfig.json
+E:\c sharp\Coffee_ordering_ConsoleApp\Coffee_ordering_ConsoleApp\bin\Debug\netcoreapp3.1\Coffee_ordering_ConsoleApp.runtimeconfig.dev.json
+E:\c sharp\Coffee_ordering_ConsoleApp\Coffee_ordering_ConsoleApp\bin\Debug\netcoreapp3.1\Coffee_ordering_ConsoleApp.dll
+E:\c sharp\Coffee_ordering_ConsoleApp\Coffee_ordering_ConsoleApp\bin\Debug\netcoreapp3.1\Coffee_ordering_ConsoleApp.pdb
+E:\c sharp\Coffee_ordering_ConsoleApp\Coffee_ordering_ConsoleApp\obj\Debug\netcoreapp3.1\Coffee_ordering_ConsoleApp.csprojAssemblyReference.cache
+E:\c sharp\Coffee_ordering_ConsoleApp\Coffee_ordering_ConsoleApp\obj\Debug\netcoreapp3.1\Coffee_ordering_ConsoleApp.csproj.CoreCompileInputs.cache
+E:\c sharp\Coffee_ordering_ConsoleApp\Coffee_ordering_ConsoleApp\obj\Debug\netcoreapp3.1\Coffee_ordering_ConsoleApp.AssemblyInfoInputs.cache
+E:\c sharp\Coffee_ordering_ConsoleApp\Coffee_ordering_ConsoleApp\obj\Debug\netcoreapp3.1\Coffee_ordering_ConsoleApp.AssemblyInfo.cs
+E:\c sharp\Coffee_ordering_ConsoleApp\Coffee_ordering_ConsoleApp\obj\Debug\netcoreapp3.1\Coffee_ordering_ConsoleApp.dll
+E:\c sharp\Coffee_ordering_ConsoleApp\Coffee_ordering_ConsoleApp\obj\Debug\netcoreapp3.1\Coffee_ordering_ConsoleApp.pdb
+E:\c sharp\Coffee_ordering_ConsoleApp\Coffee_ordering_ConsoleApp\obj\Debug\netcoreapp3.1\Coffee_ordering_ConsoleApp.genruntimeconfig.cache

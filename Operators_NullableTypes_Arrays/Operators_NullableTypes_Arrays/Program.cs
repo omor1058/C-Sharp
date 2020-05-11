@@ -39,6 +39,15 @@ namespace Operators_NullableTypes_Arrays
                 Console.WriteLine("Please enter a valid number");
             }
 
+            //Array Example
+            int[] EvenNumbers = new int[3];
+
+            EvenNumbers[0] = 0;
+            EvenNumbers[1] = 2;
+
+            Console.WriteLine(EvenNumbers[1]);
+
+
         }
     }
 }

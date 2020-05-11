@@ -1,0 +1,13 @@
+E:\c sharp\Statement_and_loop\Statement_and_loop\obj\Debug\netcoreapp3.1\Statement_and_loop.csprojAssemblyReference.cache
+E:\c sharp\Statement_and_loop\Statement_and_loop\obj\Debug\netcoreapp3.1\Statement_and_loop.csproj.CoreCompileInputs.cache
+E:\c sharp\Statement_and_loop\Statement_and_loop\obj\Debug\netcoreapp3.1\Statement_and_loop.AssemblyInfoInputs.cache
+E:\c sharp\Statement_and_loop\Statement_and_loop\obj\Debug\netcoreapp3.1\Statement_and_loop.AssemblyInfo.cs
+E:\c sharp\Statement_and_loop\Statement_and_loop\bin\Debug\netcoreapp3.1\Statement_and_loop.exe
+E:\c sharp\Statement_and_loop\Statement_and_loop\bin\Debug\netcoreapp3.1\Statement_and_loop.deps.json
+E:\c sharp\Statement_and_loop\Statement_and_loop\bin\Debug\netcoreapp3.1\Statement_and_loop.runtimeconfig.json
+E:\c sharp\Statement_and_loop\Statement_and_loop\bin\Debug\netcoreapp3.1\Statement_and_loop.runtimeconfig.dev.json
+E:\c sharp\Statement_and_loop\Statement_and_loop\bin\Debug\netcoreapp3.1\Statement_and_loop.dll
+E:\c sharp\Statement_and_loop\Statement_and_loop\bin\Debug\netcoreapp3.1\Statement_and_loop.pdb
+E:\c sharp\Statement_and_loop\Statement_and_loop\obj\Debug\netcoreapp3.1\Statement_and_loop.dll
+E:\c sharp\Statement_and_loop\Statement_and_loop\obj\Debug\netcoreapp3.1\Statement_and_loop.pdb
+E:\c sharp\Statement_and_loop\Statement_and_loop\obj\Debug\netcoreapp3.1\Statement_and_loop.genruntimeconfig.cache
